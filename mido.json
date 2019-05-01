@@ -1,18 +1,20 @@
 {
   "response": [
      {
-      "datetime": 1553763719, 
-      "filename": "dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
+      "datetime": 1556724888, 
+      "filename": "Dot-Extended-P-v3.1-mido-OFFICIAL-20190501-2002.zip", 
       "id": "e01c5e9d315e4afc22f64c8e27d00dd2", 
       "romtype": "OFFICIAL",
-      "size": 596623448, 
-      "url": "https://master.dl.sourceforge.net/project/dotos-downloads/dotp/mido/dotOS-P-v3.0-mido-OFFICIAL-20190328-0902.zip", 
-      "version": "v3.0",
-	    "changelog_system": "Android 9.0 Release",
+      "size": 581511217, 
+      "url": "https://sourceforge.net/projects/dot-extended/files/mido/Dot-Extended-P-v3.1-mido-OFFICIAL-20190501-2002.zip/download", 
+      "version": "v3.1",
+	    "changelog_system": "Release v3.1",
       "changelog_misc" : "Bug fixes",
-      "changelog_device" : "Added HW Customisations\n- Fixed lockscreen statusbar clock overlaping\n- Added Invert Navbar Feature ",
+      "changelog_device" : "Changelog Dot-Extended v3.1 :
+Add Q style to battery icon chooser\n- Added incall vibration options\n- Added Hide lockscreen items\n-Improved StatusBarSignalwith lineage  
+\n- Added Animate the keyguard when charging  \n- Addeded support for DiracSound FX  \n- Added Redo expanded volume panel for 9.x \n- Added More QS \n- Any some fixes",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "March 05 2019"
+      "changelog_securitypatch" : "Apri 05 2019"
     }
   ]
 }
