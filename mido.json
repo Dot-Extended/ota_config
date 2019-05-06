@@ -11,8 +11,8 @@
 	    "changelog_system": "Release v3.1",
       "changelog_misc" : "Bug fixes",
       "changelog_device" : "Changelog Dot-Extended v3.1 :
-Add Q style to battery icon chooser\n- Added incall vibration options\n- Added Hide lockscreen items\n-Improved StatusBarSignalwith lineage  
-\n- Added Animate the keyguard when charging  \n- Addeded support for DiracSound FX  \n- Added Redo expanded volume panel for 9.x \n- Added More QS \n- Any some fixes",
+\n Updated Q AOD: Show battery icon\n-Added 7QS Styles\n-Added PixelNav\n-Added Q style to battery icon chooser\n- Added incall vibration options\n- Added Hide lockscreen items\n-Improved StatusBarSignalwith lineage  
+\n- Added Animate the keyguard when charging\n- Addeded support for DiracSound FX  \n- Added Redo expanded volume panel for 9.x \n- Added More QS \n- Any some fixes",
       "changelog_settings" : "",
       "changelog_securitypatch" : "Apri 05 2019"
     }
