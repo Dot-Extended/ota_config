@@ -1,19 +1,16 @@
 {
   "response": [
      {
-      "datetime": 1558273928, 
-      "filename": "Dot-Extended-P-v3.2-mido-OFFICIAL-20190519-1448.zip", 
-      "id": "12fd8159fc9efb1567f501dfc6e95283", 
+      "datetime": 1559143374, 
+      "filename": "Dot-Extended-P-v3.2-mido-OFFICIAL-20190529-1523.zip", 
+      "id": "d4f7ca8ea69db9e3ec592ec496b9d339", 
       "romtype": "OFFICIAL",
-      "size": 587840233, 
-      "url": "https://sourceforge.net/projects/dot-extended/files/mido/Dot-Extended-P-v3.2-mido-OFFICIAL-20190519-1448.zip/download", 
+      "size":  590006796, 
+      "url": "https://sourceforge.net/projects/dot-extended/files/mido/Dot-Extended-P-v3.2-mido-OFFICIAL-20190529-1523.zip/download", 
       "version": "v3.2",
 	    "changelog_system": "Release v3.2",
       "changelog_misc" : "Bug fixes",
-      "changelog_device" : "Changelog Dot-Extended v3.2 :
-  \n- • Merged May security patches\n- • Added seekbar to media notification\n- • Added Pocket Judge\n- • Added LiveDisplay from LOS\n-• Updated Vietnamese Translation\n-• Improved statusbar icons alignment\n- • Allowed Pixel 3 live wallpapers to work in Ambient Display\n- • Added reading mode tile\n-• Added Gaming mode tile\n-• Expose Q battery icon paths• Added seekbar to media notification
-\n- •Added Pocket Judge\n- •Added LiveDisplay from LOS\n- •Updated Vietnamese Translation\n- •Allowed Pixel 3 live wallpapers to work in Ambient Display\n- •Added Gaming mode tile\n- •Expose Q battery icon paths\n- •New Design Q style QS Panel\n- •SwipeToScreenshot: Import MIUI\n- •    New Design Q style QS Panel\n- •SwipeToScreenshot: Import MIUI implementation\n- •Improved Android Q clock\n- •Added Smart charging\n- •Added Android Q style battery icon\n- •Fixed Battery icon padding\n- •Added Agressive battery settings\n- •Added deep sleep info to uptime\n- •Switched Lawnchair\n- •Fixed Lockscreen weather disappearing\n- •Added Round Corners frameworks value toggle\n- •Added Live Volume Steps\n- •Added NFC sounds\n- •Added Q Always-On Display: Show battery icon\n\n- •More.......\n- Any some fixes",
-      "changelog_settings" : "",
+      "changelog_device" : "https://raw.githubusercontent.com/Dot-Extended/changelog/pie/changelog.md",
       "changelog_securitypatch" : "May 05 2019"
     }
   ]
