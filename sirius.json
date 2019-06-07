@@ -2,11 +2,11 @@
   "response": [
      {
       "datetime": 1559794006, 
-      "filename": "Dot-Extended-P-v3.3-sirius-OFFICIAL-20190606-0904.zip", 
+      "filename": "Dot-Extended-P-v3.3-sirius-OFFICIAL-20190607-1347.zip", 
       "id": "4542e03eae516ae87484747b9f8070ae", 
       "romtype": "OFFICIAL",
-      "size":  532942908, 
-      "url": "https://sourceforge.net/projects/dot-extended/files/sirius/Dot-Extended-P-v3.3-sirius-OFFICIAL-20190606-0904.zip/download", 
+      "size":  532197772, 
+      "url": "https://sourceforge.net/projects/dot-extended/files/sirius/Dot-Extended-P-v3.3-sirius-OFFICIAL-20190607-1347.zip/download", 
       "version": "v3.3",
 	    "changelog_system": "Release v3.3",
       "changelog_misc" : "Bug fixes",
